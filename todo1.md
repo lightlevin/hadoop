@@ -1,3 +1,0 @@
-- [x] Figure out wormholes
-- [ ] ...?
-- [ ] Profit!
