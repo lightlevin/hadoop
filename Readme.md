@@ -21,7 +21,7 @@ Hadoop 学习文档
 计划进度
 --------
 
-* [计划进度](issues/1)
+* [计划进度](https://github.com/lightlevin/hadoop/issues/1)
 
 
 知识点
