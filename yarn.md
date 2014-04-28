@@ -16,8 +16,8 @@ Preparations
 
 ```
 adduser hadoop
-adduser yarn
-vi /etc/group  #add yarn to group hadoop
+~~adduser yarn~~
+~~vi /etc/group  #add yarn to group hadoop~~
 ```
 
 * JDK
@@ -58,7 +58,8 @@ chown -R hadoop:hadoop /opt/hadoop-data
 # yarn dir
 mkdir -p /opt/yarn/local
 mkdir -p /opt/yarn/logs
-chown -R yarn:yarn /opt/yarn
+~~chown -R yarn:yarn /opt/yarn~~
+chown -R hadoop:hadoop /opt/yarn
 
 ```
 
