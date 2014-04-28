@@ -13,7 +13,7 @@ Hadoop 学习文档
 
 	* http://spark.apache.org/docs/latest/scala-programming-guide.html#deploying-code-on-a-cluster
 
-[Hadoop2(Yarn)](yarn.md) 安装部署文档已完成，请各位参加并按照文档实践
+[Hadoop2(Yarn)](hadoop/yarn.md) 安装部署文档已完成，请各位参加并按照文档实践
 
 
 * [历史公告](notice_his.md)
